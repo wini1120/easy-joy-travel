@@ -47,7 +47,7 @@ export default function App() {
             Easy Joy
           </h1>
           <div className="flex flex-col items-center gap-2">
-            <p className="text-lg font-light tracking-widest opacity-90">몽골의 별을 담다</p>
+            <p className="text-lg font-light tracking-widest opacity-90">쉽게 즐기는 몽골 여행,</p>
             <div className="flex gap-1 mt-4">
               <div className="w-2 h-2 bg-blue-400 rounded-full animate-bounce [animation-delay:-0.3s]"></div>
               <div className="w-2 h-2 bg-blue-400 rounded-full animate-bounce [animation-delay:-0.15s]"></div>
